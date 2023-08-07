@@ -4,7 +4,7 @@ import useFetch from '../../hooks/useFetch';
 import { useParams } from 'react-router-dom';
 import DetailsBanner from './detailsBanner/DetailsBanner';
 import VideosSection from './videosSection/VideosSection';
-import Similar from './carousels/similar';
+import Similar from './carousels/Similar';
 //import Cast from './cast/Cast';
 
 

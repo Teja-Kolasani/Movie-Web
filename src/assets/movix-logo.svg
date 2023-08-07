@@ -1,0 +1,8 @@
+<!-- sample rectangle -->
+<svg xmlns="http://www.w3.org/2000/svg"  width="400" height="100">
+  <!-- Text - "Movie" -->
+  <text x="60" y="60" font-family="Arial, sans-serif" font-size="60" fill="#0074D9">Movie</text>
+  
+  <!-- Text - "Web" -->
+  <text x="220" y="60" font-family="Arial, sans-serif" font-size="60" fill="#FF4136">Web</text>
+</svg>
